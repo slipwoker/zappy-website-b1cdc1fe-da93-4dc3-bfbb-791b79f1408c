@@ -1,0 +1,84 @@
+# Lemon&cookie — Generative Engine Optimization Map
+
+> Lemon&cookie is a charming small food stand or home-based business located in Kiryat Malachi, Israel, selling freshly made cookies and lemonade at affordable prices. The concept is simple and sweet — customers come to pick up their treats in person with no delivery or online ordering. The brand name combines two of its signature products, suggesting a fresh, cheerful, and inviting atmosphere perfect for a neighborhood treat spot.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+עוגיות טריות ולימונדה סחוטה במקום בקריית מלאכי! מארזי עוגיות באיסוף עצמי במחירים נגישים. הפינוק המרענן שחיכיתם לו כבר כאן.
+
+### שירותים
+https://example.com/services
+גלו את מגוון העוגיות הטריות והלימונדה הסחוטה שלנו! מארזי פינוק באיסוף עצמי, מחירים שמחים ומוצרים שנעשים ביד אוהבת מדי יום.
+
+### אודות
+https://example.com/about
+Lemon&amp;cookie נולדה מאהבה לאוכל אמיתי ושמח. דוכן קטן עם לב גדול בקריית מלאכי — כי כל שכונה מגיעה לפינוק מרענן ביתי ואיכותי.
+
+### צור קשר
+https://example.com/contact
+רוצים לדעת מתי אנחנו פתוחים? צרו קשר עם Lemon&amp;cookie והגיעו לאסוף עוגיות טריות ולימונדה קרה — ללא משלוח, רק חיוך ואיסוף עצמי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Lemon&cookie
+Lemon&cookie is a charming small food stand or home-based business located in Kiryat Malachi, Israel, selling freshly made cookies and lemonade at affordable prices. The concept is simple and sweet — customers come to pick up their treats in person with no delivery or online ordering. The brand name combines two of its signature products, suggesting a fresh, cheerful, and inviting atmosphere perfect for a neighborhood treat spot.
+
+## Services/Products
+- עוגייה אחת ב-4 שקל
+- 3 עוגיות ב-10 שקל
+- כוס לימונדה קטנה ב-3 שקל
+- כוס לימונדה גדולה ב-6 שקל
+
+## Target Audience
+- תושבי קריית מלאכי והסביבה
+- משפחות עם ילדים
+- זוגות צעירים
+
+## Industry
+Food & Beverage
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
